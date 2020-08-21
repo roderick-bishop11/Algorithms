@@ -29,8 +29,11 @@
 
 
 # Contributors: 
-* [Ramon Lavender](https://github.com/rLav8008)
-* [Roderick Bishop](https://www.linkedin.com/in/roderickebishop/)
+
+* Ramon Lavender
+    * <a href="https://github.com/rLav8008" target="_blank">GitHub</a>
+    * <a href="https://www.linkedin.com/in/ramon-lavender-47b081145/" target="_blank">LinkedIn</a>
+* <a href = "https://www.linkedin.com/in/roderickebishop/" target="_blank"> Roderick Bishop </a>
 
 
 ### Enjoy!
