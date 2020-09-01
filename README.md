@@ -5,7 +5,7 @@
 
 # Algs that are in this repo (Java/Python)
 * [ ] Sorting algs
-    * [x] Quick Sort 
+    * [x] Quick Sort- Java
     * [ ] HeapSort
     * [ ] Bucket Sort
     * [ ] Radix Sort
@@ -20,9 +20,20 @@
 * [ ] Searching Algs
     * [ ] DFS
     * [ ] BFS   
+    * [ ] Binary Search
+    * [ ] Linear Search
+
 
 * [ ] Pathfinding Algs
     * [ ] Djikstras
+    * [ ] Greedy
+    * [ ] A*
+
+* [ ] BST Algs
+    * [ ] Traversals (Preorder, Inorder, PostOrder)
+    * [ ] Finding Max & Min
+    
+
 
 
 
