@@ -31,9 +31,13 @@
 # Contributors: 
 
 * Ramon Lavender
-    * <a href="https://github.com/rLav8008" target="_blank">GitHub</a>
-    * <a href="https://www.linkedin.com/in/ramon-lavender-47b081145/" target="_blank">LinkedIn</a>
-* <a href = "https://www.linkedin.com/in/roderickebishop/" target="_blank"> Roderick Bishop </a>
+    * [GitHub](https://github.com/rLav8008)
+    * [LinkedIn](https://www.linkedin.com/in/ramon-lavender-47b081145/)
+* Jordan Brown
+    * [Github](https://github.com/Jordanbrown42)
+    * [LinkedIn](https://www.linkedin.com/in/jordanbrown-12/)
+* Roderick Bishop
+    * [LinkedIn](https://www.linkedin.com/in/roderickebishop/)
 
 
 ### Enjoy!
