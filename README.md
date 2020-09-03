@@ -32,6 +32,7 @@
 * [ ] BST Algs
     * [ ] Traversals (Preorder, Inorder, PostOrder)
     * [ ] Finding Max & Min
+    * [ ] Finding predecessors and successors
     
 
 
