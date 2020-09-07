@@ -3,6 +3,8 @@
 Language implemetations in this repo:
 * [x] Java
 
+## The Pseudo:
+
 ## Use cases:
 
 ## Caveats:
