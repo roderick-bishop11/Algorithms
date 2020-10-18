@@ -39,7 +39,7 @@
 * [ ] Other algs
     * [ ] Primms algorithm (minimum spanning tree)
     * [ ] Kruskal's Alg (minumum spanning tree)
-    * [ ] Fisher-Yates Shuffle alg (shuffling songs, cards, names, etc)
+    * [x] Fisher-Yates Shuffle alg (shuffling songs, cards, names, etc)
     
 
 
