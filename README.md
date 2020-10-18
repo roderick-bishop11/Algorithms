@@ -28,13 +28,19 @@
     * [ ] Djikstras
     * [ ] Greedy
     * [ ] A*
+    * [ ] Branch and bound
+    * [ ] Backtracking (similar to A*)
+    * [ ] Scheduling alg (graph theory, finding the critical path to solve scheduling problems)
 
 * [ ] BST Algs
     * [ ] Traversals (Preorder, Inorder, PostOrder)
     * [ ] Finding Max & Min
     * [ ] Finding predecessors and successors
+* [ ] Other algs
+    * [ ] Primms algorithm (minimum spanning tree)
+    * [ ] Kruskal's Alg (minumum spanning tree)
+    * [ ] Fisher-Yates Shuffle alg (shuffling songs, cards, names, etc)
     
-
 
 
 
